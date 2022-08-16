@@ -1,0 +1,1 @@
+PATH = "https://pl.indeed.com/"
